@@ -22,7 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace 'com.example.video_thumbnail'
+    namespace 'xyz.justsoft.video_thumbnail'
     compileSdkVersion 33
 
     defaultConfig {
